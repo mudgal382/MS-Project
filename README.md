@@ -1,5 +1,6 @@
 # MS-Project
 I used MS Visual Studio Code for this project with jupyter notebook many other extensions
+I am also attaching the Screenshots of successfull coding of project on Microsoft Visual Studio Code
 Goal:
 Predict whether a patient should be diagnosed with Heart Disease. This is a binary outcome.
 Positive (+) = 1, patient diagnosed with Heart Disease
