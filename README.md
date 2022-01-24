@@ -1,3 +1,7 @@
+![SS2](https://user-images.githubusercontent.com/55023031/150823137-d14acff8-7bef-45ff-b648-624c9008175c.png)
+![SS3](https://user-images.githubusercontent.com/55023031/150823187-b8e04e6c-8177-4b66-8e09-297452d7cf08.png)
+![SS4](https://user-images.githubusercontent.com/55023031/150823218-03c2c498-7456-4b27-bacd-158e72b4f626.png)
+![SS5](https://user-images.githubusercontent.com/55023031/150823270-ca868c31-4819-46d6-8c35-ed9152422e3d.png)
 ![SS1](https://user-images.githubusercontent.com/55023031/150822927-37b8cf17-2647-489b-ba1f-ad536e25ae71.png)
 # MS-Project
 I used MS Visual Studio Code for this project with jupyter notebook many other extensions
@@ -29,4 +33,9 @@ Our data has 3 types of data:
 Continuous (#): which is quantitative data that can be measured
 Ordinal Data: Categorical data that has a order to it (0,1,2,3, etc)
 Binary Data: data whose unit can take on only two possible states ( 0 &1 )
-[heart.csv](https://github.com/mudgal382/MS-Project/files/7926459/heart.csv)
+[heart.csv](https://github.com/mudgal382/MS-Project/files/7926459/heart.csv)![SS6](https://user-images.githubusercontent.com/55023031/150823304-021bd912-6563-4e51-b453-42b311f7d552.png)
+![SS7](https://user-images.githubusercontent.com/55023031/150823331-017a15ad-97e0-43f9-bb54-d544866904f8.png)
+![SS8](https://user-images.githubusercontent.com/55023031/150823355-b4e47a70-f702-4af1-9b62-0a66e0203bfe.png)
+![SS9](https://user-images.githubusercontent.com/55023031/150823394-88d616e2-da4d-490a-80aa-f6538efab644.png)
+![SS10](https://user-images.githubusercontent.com/55023031/150823424-91b30043-8432-4f54-8859-b6d941920bc1.png)
+
